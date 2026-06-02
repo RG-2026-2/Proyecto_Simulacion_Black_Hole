@@ -31,22 +31,22 @@
 
 - Repositorio original: https://github.com/mcheysser/Proyecto_Simulacion_Black_Hole
 - Fecha de creación del repositorio: 2026-04-15 (antes del 14 de abril: no)
-- Total de commits desde creación del repo: 4
+- Total de commits desde creación del repo: 5
 - Primer commit: 2026-04-14
-- Último commit: 2026-05-28
-- Días activos con commits: 2
-- Semanas activas con commits: 2
+- Último commit: 2026-06-02
+- Días activos con commits: 3
+- Semanas activas con commits: 3
 - Mayor pausa entre commits: 44 días
 
 ### Aplicación al repositorio
 
 - Inicio oportuno: 3.5
-- Constancia semanal: 2.0
+- Constancia semanal: 3.0
 - Regularidad: 2.0
 - Iteración: 3.0
-- Nota de ritmo de commits (promedio): 2.62 / 5.0
+- Nota de ritmo de commits (promedio): 2.88 / 5.0
 
-Interpretación breve: Ritmo intermedio con concentración del trabajo en pocas semanas; se observó una pausa larga de 44 días; la actividad se concentro en muy pocas semanas.
+Interpretación breve: Ritmo intermedio con concentración del trabajo en pocas semanas; se observó una pausa larga de 44 días.
 ## Retroalimentación
 
 ### Aspectos positivos
